@@ -1,4 +1,4 @@
-LOFFER是个可以帮助你get off from LOFTER的软件（我知道这个pun很烂）。
+Welcome!
 
 这是一个可以发布在GitHub的Jekyll博客，你不需要编写代码或使用命令行即可获得一个部署在GitHub的博客。
 
